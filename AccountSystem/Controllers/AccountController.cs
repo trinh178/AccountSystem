@@ -16,6 +16,7 @@ using Microsoft.Owin.Security.OAuth;
 using AccountSystem.Models;
 using AccountSystem.Providers;
 using AccountSystem.Results;
+using AccountSystem.Models.User;
 
 namespace AccountSystem.Controllers
 {
